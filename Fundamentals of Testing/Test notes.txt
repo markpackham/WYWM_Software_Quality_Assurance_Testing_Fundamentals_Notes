@@ -1,0 +1,58 @@
+What is a defect that causes the software to become unresponsive or break better known as? - Fatal Issue
+
+Focuses on adhering to proper processes and ensuring test execution is undertaken to a high standard throughout the development process - Quality Assurance
+
+
+Defects cluster together
+
+The Pareto Principle is a risk analysis tool used in multiple fields of quality control
+The Pareto principle is commonly interpreted as:
+"80% of all bugs can be found in 20% of software"
+A way to reframe this in the context of software testing is:
+"50% of the software may contain 0% of defects"
+Known commonly as the 80/20 Rule
+
+
+
+Beware of the Pesticide Paradox
+
+'Paradox of the Pesticides' is a term used to describe the potential effects of pesticide overuse
+In pest management, it was historically understood that using large quantities of pesticide over time would increase a pest's resilience to the pesticide, eventually making it obsolete
+When applied to software testing, the Pesticide Paradox describes how repetitive testing of certain elements will stop showing new defects
+A more effective use of time could be to analyse the tests being undertaken and reconfigure them to be more suitable
+
+
+
+
+Absence-of-errors is a fallacy
+
+Testing for a project can be considered 'complete', however, that does not signify that the software is 100% free of defects.
+
+Testing is designed to "show the presence of defects, not their absence".
+Organisational expectations that testers can & will find every defect is an invalid train of thought as "Exhaustive testing is not possible".
+The most thorough testing will not define the success of a product
+Product may be inferior to competitors
+Product may not be user friendly
+Product may not fill user needs or expectations
+
+
+What is a test basis?
+The information required to start test analysis and begin writing test cases
+
+
+Test work products, also known as artifacts, are constructed as a part of the test process.
+
+
+Test Analysis
+Test analysis is the process of determining what will be tested by analysing the test basis and test object.
+
+
+"The test team manager compares the actual work being done with the expected testing progress"
+Test Monitoring and Control
+
+
+Congruence Bias
+Congruence Bias is the failure or inability to consider alternatives to the expected.
+Congruence bias can be considered a special case of confirmation bias.
+Confirmation bias will see a person only seek out evidence that supports a currently held belief
+Congruence bias is actively avoiding evidence that does not support or would dismantle a theory

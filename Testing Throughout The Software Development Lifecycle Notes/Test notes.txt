@@ -1,0 +1,2 @@
+"Information gathered during requirements analysis is used to create the architecture upon which the rest of the software will be built."
+Design
